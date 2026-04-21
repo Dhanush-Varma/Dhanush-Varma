@@ -42,7 +42,4 @@
 
 ---
 
-### 📈 GitHub Stats
-![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushindla&show_icons=true&theme=radical)
-
 📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/dhanush-indla) | [Portfolio](https://dhanushindla.com) | [Email Me](mailto:dhanushindla825@gmail.com)
