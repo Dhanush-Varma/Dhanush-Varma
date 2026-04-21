@@ -42,4 +42,4 @@
 
 ---
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/dhanush-indla) | [Portfolio](https://dhanushindla.com) | [Email Me](mailto:dhanushindla825@gmail.com)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/dhanush-indla) | [Email Me](mailto:dhanushindla825@gmail.com)
