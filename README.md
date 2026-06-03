@@ -2,7 +2,7 @@
 
 An **AI/ML Engineer & Data Scientist** with over 3 years of experience specializing in Generative AI (GPT-4, LangChain, RAG pipelines), production-grade MLOps, and predictive modeling across the healthcare and finance sectors. I bridge technical depth with business impact by building scalable, transparent, and high-performance AI solutions.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/dhanush-indla-a28545243/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-indla-a28545243/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushindla011@gmail.com)
 
 ---
