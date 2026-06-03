@@ -60,7 +60,7 @@ An **AI/ML Engineer & Data Scientist** with over 3 years of experience specializ
 ## 🎓 Education & Certifications
 * **M.S. in Computer Science** – Saint Francis College, Brooklyn, NY
 * **B.Tech. in Computer Science & Engineering** – Guru Nanak Institutions Technical Campus, India
-* **Certifications:** GenAI Job Simulation (BCG X) | Data Analytics Job Simulation (Quantium) | Data Analytics Job Simulation (Deloitte)
+* **Certifications:** GenAI Job Simulation (BCG X) | Data Science Job Simulation (BCG X) | Data Analytics Job Simulation (Quantium) | Data Analytics Job Simulation (Deloitte)
 
 ---
 
