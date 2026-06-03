@@ -31,7 +31,7 @@ An **AI/ML Engineer & Data Scientist** with over 3 years of experience specializ
 
 ## 🌟 Featured Projects
 
-### 📄 [Enterprise Multi-Modal RAG System](https://github.com/YOUR_USERNAME/YOUR_REPO)
+### 📄 [Enterprise Multi-Modal RAG System](Computer-Vision-Pipeline-for-Autonomous-Quality-Control.)
 * **Tech Stack:** Python, LangChain, OpenAI GPT-4 / Claude 3.5 Sonnet, ChromaDB/Pinecone, Docker, AWS
 * Engineered an end-to-end multi-modal RAG pipeline that automates ingestion and vector indexing of complex PDF reports, financial tables, and embedded charts.
 * Implemented hybrid search (dense vector + BM25) and advanced chunking, slashing LLM hallucinations by **38%** and cutting token consumption costs by **42%**.
