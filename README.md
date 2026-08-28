@@ -1,8 +1,9 @@
 # Hi there, I'm Dhanush Indla! 👋
 
-An **AI/ML Engineer & Data Scientist** with over 3 years of experience specializing in Generative AI (GPT-4, LangChain, RAG pipelines), production-grade MLOps, and predictive modeling across the healthcare and finance sectors. I bridge technical depth with business impact by building scalable, transparent, and high-performance AI solutions.
+AI/ML Engineer with experience of building and deploying production AI and ML systems, specializing in Generative AI, LLMs, RAG, and agentic workflows. Deep hands-on experience with LangGraph, LangChain, MCP, AWS Bedrock, PyTorch, Kubernetes, and MLflow across the full lifecycle: AI architecture, retrieval and evaluation, model deployment, real-time ML, observability, and cloud infrastructure. Proven record in financial document intelligence, compliance workflows, market data analytics, and fraud/risk detection at both enterprise (Morgan Stanley) and mid-size scale.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanush-indla-a28545243/)
+<img width="468" height="85" alt="image" src="https://github.com/user-attachments/assets/a525d89b-0939-40d0-9627-575604017a93" />
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushindla011@gmail.com)
 
 ---
@@ -31,19 +32,19 @@ An **AI/ML Engineer & Data Scientist** with over 3 years of experience specializ
 
 ## 🌟 Featured Projects
 
-### 📄 [Enterprise Multi-Modal RAG System](https://github.com/Dhanush-Varma/Enterprise-Multi-Modal-RAG-System-for-Document-Intelligence-main)
+### 📄 [Enterprise Multi-Modal RAG System](https://github.com/Dhanush-Varma/Enterprise-Multi-Modal-RAG-System-for-Document-Intelligence-main) [Live Deme](https://enterprise-multimodal-rag.streamlit.app/)
 * **Tech Stack:** Python, LangChain, OpenAI GPT-4 / Claude 3.5 Sonnet, ChromaDB/Pinecone, Docker, AWS
 * Engineered an end-to-end multi-modal RAG pipeline that automates ingestion and vector indexing of complex PDF reports, financial tables, and embedded charts.
 * Implemented hybrid search (dense vector + BM25) and advanced chunking, slashing LLM hallucinations by **38%** and cutting token consumption costs by **42%**.
 * Achieved a **70% reduction** in document audit cycle times with an endpoint response time of `<2.1 seconds`.
 
-### 🛡️ [Real-Time Fraud Detection MLOps Pipeline](https://github.com/Dhanush-Varma/Real-Time-Fraud-Detection-with-MLOps-Pipeline-main)
+### 🛡️ [Real-Time Fraud Detection MLOps Pipeline](https://github.com/Dhanush-Varma/Real-Time-Fraud-Detection-with-MLOps-Pipeline-main) [live Demo](https://realtime-fraud-detection-app.streamlit.app/)
 * **Tech Stack:** Python, Kafka, Spark Streaming, Redis, Feast Feature Store, MLflow, Kubernetes (EKS), Prometheus, Grafana
 * Built an ultra-low latency automated ML lifecycle pipeline for streaming XGBoost models with centralized feature stores serving behavioral data at `<5ms` lookup times.
 * Implemented automated CI/CD gates for champion-vs-challenger shadow deployments and live drift detection via Prometheus/Grafana.
 * Reduced False Positive Rates (FPR) by **35%**, saving an estimated **$120,000 monthly** in fraudulent chargebacks and operational overhead.
 
-### 👁️ [Computer Vision Pipeline for Autonomous Quality Control](https://github.com/Dhanush-Varma/Computer-Vision-Pipeline-for-Autonomous-Quality-Control.)
+### 👁️ [Computer Vision Pipeline for Autonomous Quality Control](https://github.com/Dhanush-Varma/Computer-Vision-Pipeline-for-Autonomous-Quality-Control.) [Live Deme](https://computer-vision-app-app.streamlit.app/)
 * **Tech Stack:** Python, PyTorch, OpenCV, Docker, NVIDIA TensorRT, AWS
 * Designed a deep learning object detection/segmentation pipeline (YOLOv8 & custom CNNs) to identify micro-defects on active manufacturing lines.
 * Optimized inference via TensorRT and FP16 quantization, boosting throughput to **60 FPS** and reducing memory footprint by **55%**.
