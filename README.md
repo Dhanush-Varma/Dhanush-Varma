@@ -1,8 +1,8 @@
 # Hi there, I'm Dhanush Indla! 👋
 
-AI/ML Engineer with experience of building and deploying production AI and ML systems, specializing in Generative AI, LLMs, RAG, and agentic workflows. Deep hands-on experience with LangGraph, LangChain, MCP, AWS Bedrock, PyTorch, Kubernetes, and MLflow across the full lifecycle: AI architecture, retrieval and evaluation, model deployment, real-time ML, observability, and cloud infrastructure. Proven record in financial document intelligence, compliance workflows, market data analytics, and fraud/risk detection at both enterprise (Morgan Stanley) and mid-size scale.
+Production AI engineer specializing in enterprise RAG and agentic systems at scale. Built compliance RAG pipeline at Morgan Stanley serving 200+ daily queries with 92% accuracy and 40% faster review time; designed fraud detection platform processing $2.4B+ monthly transactions with sub-100ms latency. Expert in LangGraph, LangChain, AWS (Bedrock, SageMaker, EKS), and end-to-end ML production systems.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushindla011@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanushindla03@gmail.com)
 
 ---
 
